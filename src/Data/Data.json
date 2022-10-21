@@ -1,0 +1,85 @@
+{
+  "Indian": [
+    {
+      "name": "Biryani",
+      "ingredients": "Rice, Dried Fruits, Spices, Vegetables",
+      "id": 1
+    },
+    {
+      "name": "Aloo Paratha",
+      "ingredients": "Potatoes, Flour, Ghee, Spices",
+      "id": 2
+    },
+    {
+      "name": "Paneer Butter Masala",
+      "ingredients": "Paneer, Dried fruits, Coriander, Spices",
+      "id": 3
+    },
+    {
+      "name": "Chhole Bature",
+      "ingredients": "Potatoes, Onions, Chana, Spices",
+      "id": 4
+    },
+    {
+      "name": "Idli Sambhar",
+      "ingredients": "Rice, Dal, Tomato, Spices",
+      "id": 5
+    }
+  ],
+
+  "Chinese": [
+    {
+      "name": "Manchurian",
+      "ingredients": "Soya Sauce, Onions, Spices, Vegetables",
+      "id": 1
+    },
+    {
+      "name": "Noodles",
+      "ingredients": "Noodles, Sauces, Cabbage, Carrot",
+      "id": 2
+    },
+    {
+      "name": "Chicken Lollipops",
+      "ingredients": "Chicken Wings, Eggs, Oil, Spices",
+      "id": 3
+    },
+    {
+      "name": "Tofu",
+      "ingredients": "Black Bean, Soya Sauce, Onions, Spices",
+      "id": 4
+    },
+    {
+      "name": "Cantonese Chinese Soup",
+      "ingredients": "Chicken, Green Veggies, Spring Onions, Mushrooms",
+      "id": 5
+    }
+  ],
+
+  "Italian": [
+    {
+      "name": "Pizza",
+      "ingredients": "Cheese, Baking powder, Olive Oil, Vegetables",
+      "id": 1
+    },
+    {
+      "name": "Pasta",
+      "ingredients": "Pasta, Garlic, Olive Oil, Pepper",
+      "id": 2
+    },
+    {
+      "name": "Tiramisu",
+      "ingredients": "Eggs, Sugar, Cheese, Cocoa powder",
+      "id": 3
+    },
+    {
+      "name": "Spaghetti",
+      "ingredients": "Spaghetti, Mushrooms, Eggs, Spices",
+      "id": 4
+    },
+    {
+      "name": "Garlic Bread",
+      "ingredients": "French Bread, Butter, Black pepper, Garlic Paste",
+      "id": 5
+    }
+  ]
+}
